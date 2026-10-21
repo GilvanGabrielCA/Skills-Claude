@@ -12,6 +12,12 @@ if (!clip || !fs.existsSync(clip)) {
   console.error('uso: node frames.js <clip.mp4> [saida.png]   (env FROM, TO, FPS)');
   process.exit(1);
 }
+for (const bin of ['ffmpeg', 'ffprobe']) {
+  if (spawnSync(bin, ['-version'], { encoding: 'utf8' }).error) {
+    console.error(`${bin} não encontrado no PATH. Rode o setup.ps1 da curadoria-clips-top5 (instala o ffmpeg) e abra um terminal novo.`);
+    process.exit(1);
+  }
+}
 const from = Number(process.env.FROM) || 0;
 const toEnv = Number(process.env.TO) || 0;
 const fps = Number(process.env.FPS) || 4;

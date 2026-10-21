@@ -24,8 +24,10 @@ ficar boa e com SEO (não escreva genérico se der pra citar os clips).
 1. `node SK/scripts/titulos.js pull` (sincroniza o histórico de títulos).
 2. Veja os adjetivos recentes para não repetir: `node SK/scripts/titulos.js recentes <jogo>`.
 3. Escolha o **tom do lote** pelo #5 e pela mistura de tipos, e monte **título** + **descrição** (seções abaixo).
-4. Registre o título principal: `node SK/scripts/titulos.js add "<jogo>" "<ADJETIVO>" "<titulo sem hashtags>"`,
-   depois `node SK/scripts/titulos.js push "Titulo <jogo> <data>"`.
+4. **Registre o título que vai ser usado** (por padrão o principal): `node SK/scripts/titulos.js add "<jogo>"
+   "<ADJETIVO>" "<titulo sem hashtags>"`, depois `node SK/scripts/titulos.js push "Titulo <jogo> <data>"`. Se o
+   usuário depois publicar com uma das alternativas, rode `add` de novo com o adjetivo real (o histórico só serve
+   pra não repetir adjetivo).
 5. Entregue no formato da seção "Entrega".
 
 ## Título
@@ -77,10 +79,10 @@ Descrição:
 ```
 Check out the top 5 cursed Minecraft memes — the funniest, most chaotic clips the community made this week.
 
-From a lonely player setting off fireworks at midnight on New Year's, to a world so glitched the walls start
-bending, to a wind charge that launches you straight off the planet and into Saturn's rings — these are the
-kind of unhinged Minecraft moments you can't unsee. Expect cursed builds, jumpscares and reactions you'll want
-to send to the group chat.
+From a lonely player setting off fireworks at midnight on New Year's, to a dog that clips straight through the
+ceiling, to a swamp frog that triggers a full "bro tf??" meltdown — then a quiet diamond run turns into a Grim
+Reaper jumpscare, right before a wind charge launches you clean off the planet and into Saturn's rings. These
+are the kind of unhinged Minecraft moments you can't unsee, and you'll want to send them to the group chat.
 
 Perfect if you need a quick laugh or just love the weird side of Minecraft servers.
 

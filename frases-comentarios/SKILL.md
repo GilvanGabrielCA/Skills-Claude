@@ -27,10 +27,12 @@ O usuário já reclamou de textos **desconexos** do que acontece no clip. Para *
    Na virada, gere uma folha mais fina do trecho: `FROM=<s> TO=<s> FPS=8 node SK/scripts/frames.js <clip.mp4>`.
 2. **Dê zoom nos textos pequenos:** a legenda do criador na tela (o "POV: …"), o chat, as mensagens do jogo
    ("You Died! fell from a high place", "monsters nearby"), nome do item na mão, placas, o meme do final.
-3. **Leia o contexto do post:** a **descrição** (`<id>.meta.json`, campo `description`) e os **comentários mais
-   curtidos** do post original (abra o link no Chrome — carregue `anthropic-skills:chrome-browser`; feche a aba no
-   fim). Os comentários costumam revelar a piada e do que o público riu. **Não copie** comentário de outra pessoa;
-   use só para entender o contexto.
+3. **Leia o contexto do post:** a **descrição** salva pela curadoria (campo `description` em
+   `<plataforma>_<id>.meta.json`, ou em `<plataforma>_<id>.json`) e os **comentários mais curtidos** do post
+   original (abra o link no Chrome — carregue `anthropic-skills:chrome-browser`; feche a aba no fim). Os comentários
+   costumam revelar a piada e do que o público riu. **Não copie** comentário de outra pessoa; use só como contexto.
+   **O TikTok costuma travar a página individual** ("Please wait"/CAPTCHA): **não resolva CAPTCHA** nem insista — se
+   os comentários não abrirem, siga só com os frames + a descrição (que a curadoria já salvou no `.json`).
 4. **Escreva para si, em 1 linha cada:** **SETUP** (o que está sendo preparado), **VIRADA** (o que acontece de
    inesperado, com o segundo exato) e **PUNCHLINE** (por que é engraçado).
 5. A **frase e o comentário precisam citar algo visível na VIRADA** (objeto, mob, ação, mensagem do jogo).
