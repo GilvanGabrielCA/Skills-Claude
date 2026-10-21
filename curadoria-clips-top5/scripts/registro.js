@@ -152,7 +152,7 @@ async function main() {
   }
   if (cmd === 'push') {
     const msg = args[0] || `registro ${new Date().toISOString().slice(0, 10)}`;
-    git(['add', 'data/videos_usados.md', 'data/fontes.md', 'data/adjetivos.md']);
+    git(['add', 'data/videos_usados.md', 'data/fontes.md']);
     git(['commit', '-m', msg]);     // ok falhar se nada mudou
     git(['pull', '--rebase']);
     if (!git(['push'])) console.log('AVISO: push falhou — o registro local continua valendo; avise o usuário.');

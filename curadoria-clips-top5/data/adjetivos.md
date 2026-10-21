@@ -1,6 +1,9 @@
 # Adjetivos para o título "TOP 5 [ADJETIVO] [GAME] MOMENTS/MEMES"
 
-O título é sempre em CAIXA ALTA, no padrão do canal. Escolha o adjetivo pelo tom do #5 e dos outros clips e não repita nenhum adjetivo dos últimos 5 títulos (`node scripts/usados.js titulos 5`).
+> **Material de referência para a futura skill de títulos/descrição.** A skill de curadoria NÃO gera título —
+> este banco fica no repo só para a skill de títulos usar quando ela for criada.
+
+O título é sempre em CAIXA ALTA, no padrão do canal. Escolha o adjetivo pelo tom do #5 e dos outros clips e não repita nenhum adjetivo dos últimos títulos (a skill de títulos manterá esse histórico).
 
 ## Já usados no canal (não são proibidos, só não repetir em sequência)
 FUNNIEST · BEST · CRAZIEST · INSANE · UNHINGED

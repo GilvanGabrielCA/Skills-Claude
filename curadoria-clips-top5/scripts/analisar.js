@@ -7,7 +7,7 @@
 //   <name>_fala.txt       whisper transcript with timestamps
 //   <name>.json           summary: platform metadata + duration, size, language, speech verdict
 // and prints one summary line per clip. Speech verdict: en (English speech found), other, none.
-// Warns when a link is already in the registry (data/videos_usados.csv).
+// Warns when a link is already in the registry (data/videos_usados.md).
 const fs = require('fs');
 const path = require('path');
 const { spawnSync } = require('child_process');

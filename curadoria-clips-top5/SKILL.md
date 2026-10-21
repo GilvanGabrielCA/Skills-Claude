@@ -8,7 +8,7 @@ description: Busca e faz a curadoria de 5 clips de memes/momentos engraçados de
 `SK` = o diretório desta skill (`curadoria-clips-top5`), que fica **dentro** do repositório git público
 `GilvanGabrielCA/Skills-Claude`, clonado em `~/.claude/skills/skills-claude/`.
 Scripts em Node puro (sem dependências), rodados no Bash: `node SK/scripts/<script>.js`.
-**Responda ao usuário em português**, com os textos do vídeo (frases/créditos/título) em inglês.
+**Responda ao usuário em português**; os textos que aparecem no vídeo (legendas/frases na tela) ficam em inglês.
 
 ## Por que esses critérios
 O canal vive do público dos **EUA**: ~12% das views do ano, mas ~52% da receita (uma view americana
@@ -55,7 +55,7 @@ o mesmo clip em link diferente ainda é reconhecido. Gerencie **só** pelo scrip
      cada clip. Se não achar a virada, descarte ou pergunte. Trecho de perto:
      `FROM=<s> TO=<s> FPS=4 node SK/scripts/analisar.js <pasta> <pasta>/<nome>.mp4`.
    - `FAILED` (link sem vídeo/privado/apagado) → descarte. Se o link estiver ok, `winget upgrade yt-dlp.yt-dlp` e tente de novo.
-6. **Escolher os 5, ordenar, definir cortes e título** (seções abaixo).
+6. **Escolher os 5, ordenar e definir os cortes** (seções abaixo).
 7. **Registrar e enviar, sem perguntar:** monte o JSON dos 5 (`[{creator, url, game}]`) em
    `C:/Rotina/top5_clips/<pasta>/registro.json`, rode `registro.js add` e por fim `registro.js push "Curadoria <jogo> <data>"`.
    Se o push falhar, avise na entrega (o registro local continua valendo).
@@ -63,7 +63,7 @@ o mesmo clip em link diferente ainda é reconhecido. Gerencie **só** pelo scrip
 
 ### Substituição e publicação
 - **Usuário recusou um clip:** ele já está no registro (nunca volta). Busque outro para a mesma posição, siga
-  os passos 3–7 só para ele, registre o novo, e reentregue a tabela da posição trocada **e os créditos completos** atualizados.
+  os passos 3–7 só para ele, registre o novo, e reentregue a linha da tabela da posição trocada, atualizada.
 - **Usuário trouxe clips próprios** (fora da busca): registre-os aqui como usados também, para não voltarem numa busca.
 
 ## Fontes
@@ -98,7 +98,7 @@ Perfis novos que renderem bons clips: anote em `SK/data/fontes.md` (o `push` env
 - **#5 abre o vídeo e é o MELHOR do lote:** gancho nos 2 primeiros segundos (ação/texto/fala já começando) e o
   maior engajamento. É ele que segura a audiência até o fim (métrica de engajamento).
 - **#1 fecha:** o segundo mais forte, para recompensar quem ficou e incentivar o replay.
-- **#4, #3, #2:** os demais; alterne o tipo de piada e espalhe os clips com fala.
+- **#4, #3, #2:** os demais; alterne o tipo de piada e espalhe os TIPOS de clip ao longo do vídeo.
 - Explique em 1 linha por que cada clip ficou naquela posição.
 
 ## Escopo desta skill
@@ -106,7 +106,7 @@ Esta skill faz **só a curadoria**: busca, escolha dos 5, ordem do ranking, cort
 **NÃO gere título** (nem opções de adjetivo) **nem créditos** — isso é de **outra skill** (títulos/descrição e
 frases/comentários). Entregue o @ de cada criador na tabela só como identificação do clip, não monte o bloco de créditos.
 
-## Entrega (em português; textos do vídeo em inglês)
+## Entrega (em português)
 1. **Tabela:** `| # | Clip (link) | @ | Duração → corte | Tipo | Views/curtidas | SETUP → VIRADA |`
    (Tipo = gameplay fail / relatable / expectativa×realidade / facecam / cursed / horror / IRL — ajuda a garantir
    variedade). Abaixo, 1 linha por clip com o motivo da posição, e a duração total estimada do vídeo.
