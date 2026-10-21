@@ -1,6 +1,6 @@
 ---
 name: curadoria-clips-top5
-description: Busca e faz a curadoria de 5 clips de memes/momentos engraçados de games (Minecraft por padrão, ou o jogo pedido — Fortnite, Clash Royale, Roblox, GTA...) para os Shorts de ranking "TOP 5 [ADJETIVO] [GAME] MOMENTS/MEMES" do canal BoosterFace, com foco no público dos EUA. Baixa e analisa os candidatos (frames + transcrição da fala), escolhe 5, define a ordem do ranking (#5 abre, #1 fecha), sugere cortes de até 15s (apontando os pontos mortos), o título e os créditos, e registra os links no GitHub para nunca repetir. Use SEMPRE que o usuário pedir "busque por 5 vídeos do tema memes <jogo>", "busca clips", "próximo top 5", "acha vídeos de <jogo>", pedir para substituir um clip ou avisar que publicou um top 5.
+description: Busca e faz a curadoria de 5 clips de memes/momentos engraçados de games (Minecraft por padrão, ou o jogo pedido — Fortnite, Clash Royale, Roblox, GTA...) para os Shorts de ranking "TOP 5 [ADJETIVO] [GAME] MOMENTS/MEMES" do canal BoosterFace, com foco no público dos EUA. Baixa e analisa os candidatos (frames + transcrição da fala), escolhe 5, define a ordem do ranking (#5 abre, #1 fecha), sugere cortes de até 15s (apontando os pontos mortos) e registra os links no GitHub para nunca repetir. NÃO gera título nem créditos (isso é de outra skill). Use SEMPRE que o usuário pedir "busque por 5 vídeos do tema memes <jogo>", "busca clips", "próximo top 5", "acha vídeos de <jogo>", pedir para substituir um clip ou avisar que publicou um top 5.
 ---
 
 # Curadoria de clips para o TOP 5 (BoosterFace)
@@ -101,26 +101,18 @@ Perfis novos que renderem bons clips: anote em `SK/data/fontes.md` (o `push` env
 - **#4, #3, #2:** os demais; alterne o tipo de piada e espalhe os clips com fala.
 - Explique em 1 linha por que cada clip ficou naquela posição.
 
-## Título
-Padrão fixo: **`TOP 5 [ADJETIVO] [GAME] MOMENTS`** (ou `MEMES`, quando forem edições/memes), tudo em CAIXA ALTA.
-Escolha o adjetivo em `SK/data/adjetivos.md`, combinando com o tom do #5. Entregue 1 principal + 2 alternativas.
+## Escopo desta skill
+Esta skill faz **só a curadoria**: busca, escolha dos 5, ordem do ranking, cortes e registro anti-repetição.
+**NÃO gere título** (nem opções de adjetivo) **nem créditos** — isso é de **outra skill** (títulos/descrição e
+frases/comentários). Entregue o @ de cada criador na tabela só como identificação do clip, não monte o bloco de créditos.
 
 ## Entrega (em português; textos do vídeo em inglês)
 1. **Tabela:** `| # | Clip (link) | @ | Duração → corte | Tipo | Views/curtidas | SETUP → VIRADA |`
    (Tipo = gameplay fail / relatable / expectativa×realidade / facecam / cursed / horror / IRL — ajuda a garantir
    variedade). Abaixo, 1 linha por clip com o motivo da posição, e a duração total estimada do vídeo.
-2. **Título** principal + 2 alternativas.
-3. **Créditos em lista vertical**, sempre dentro de um bloco de código, um por linha, na ordem do vídeo:
-   ```
-   (5) @criador
-   (4) @criador
-   (3) @criador
-   (2) @criador
-   (1) @criador
-   ```
-   Em clip de streamer repostado, credite quem postou e o streamer: `(3) @perfil / Streamer`.
-4. Diga a pasta dos vídeos baixados (`C:\Rotina\top5_clips\<data>_<jogo>\`).
-5. As frases da lista e os comentários do vídeo são de **outra skill** (frases/comentários). Ofereça em 1 linha, sem escrever sem pedido.
+2. Diga a pasta dos vídeos baixados (`C:\Rotina\top5_clips\<data>_<jogo>\`).
+3. O **título** e os **créditos** são de outra skill; as **frases da lista** e os **comentários** também.
+   Ofereça em 1 linha ("quando quiser, chamo a skill de títulos/descrição e a de frases/comentários"), sem gerar nada disso sem pedido.
 
 ## Mudanças na própria skill
 Se alterar `SKILL.md` ou `scripts/`, faça commit e push de tudo na raiz do repo:
