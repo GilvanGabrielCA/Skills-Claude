@@ -30,5 +30,17 @@ if (-not (Test-Path $model) -or (Get-Item $model).Length -lt 100MB) {
     Invoke-WebRequest 'https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-base.bin' -OutFile $model -UseBasicParsing
 }
 
+# Junctions: cada skill do repo vira uma pasta-filha direta de ~/.claude/skills
+# (o Claude Code descobre skills pessoais como filhas diretas de skills/).
+$repo = (Resolve-Path (Join-Path $PSScriptRoot '..\..')).Path
+$skillsDir = Join-Path $env:USERPROFILE '.claude\skills'
+foreach ($d in Get-ChildItem -Directory $repo) {
+    if (-not (Test-Path (Join-Path $d.FullName 'SKILL.md'))) { continue }
+    $link = Join-Path $skillsDir $d.Name
+    if (Test-Path $link) { continue }
+    cmd /c mklink /J "`"$link`"" "`"$($d.FullName)`"" | Out-Null
+    Write-Host "== junction: $($d.Name)"
+}
+
 Write-Host "`nPronto. Abra um terminal NOVO (para o PATH atualizar) e confira com: node `"$PSScriptRoot\tools.js`""
 Write-Host 'Primeira vez neste PC? Rode também: gh auth login   e depois   gh auth setup-git'

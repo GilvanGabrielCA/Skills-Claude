@@ -19,8 +19,9 @@ gh auth setup-git
 gh repo clone GilvanGabrielCA/Skills-Claude "$env:USERPROFILE\.claude\skills\skills-claude"
 powershell -ExecutionPolicy Bypass -File "$env:USERPROFILE\.claude\skills\skills-claude\curadoria-clips-top5\scripts\setup.ps1"
 ```
-As skills são descobertas automaticamente pelo Claude Code dentro de `~/.claude/skills/skills-claude/`.
-Confira as ferramentas externas com `node curadoria-clips-top5/scripts/tools.js`
+O `setup.ps1` cria uma **junction** de cada skill do repo direto em `~/.claude/skills/` (o Claude Code descobre
+skills pessoais como pastas-filhas diretas), então basta clonar e rodar o setup. Depois, confira as ferramentas
+externas com `node curadoria-clips-top5/scripts/tools.js`
 (ffmpeg, ffprobe, yt-dlp, whisper-cli + modelo `ggml-base.bin` em `%LOCALAPPDATA%\whisper.cpp`).
 
 ## Registro anti-repetição
