@@ -28,27 +28,32 @@ Ou seja: a descrição não faz o vídeo viralizar sozinha, mas **amplia o alcan
 - Estrutura (espelha o estilo vidIQ que o usuário aprovou, só que mais rica):
   1. **Gancho** com a keyword (1 frase).
   2. **Corpo:** o que o vídeo tem, citando **2–3 clips específicos** do lote + a variedade de humor.
-  3. **Valor/para quem é:** "perfect for a quick laugh", momentos bizarros de server, etc.
+  3. **Valor/para quem é:** por que vale assistir, de forma natural.
   4. **Créditos** em lista `(5)…(1)` com os @ (ver seção Créditos da SKILL).
-  5. **CTA:** pedir subscribe + comentar o clip favorito.
+  5. **CTA:** pedir subscribe + comentar o clip favorito (casual: "which one was your favorite?").
   6. **Linha de hashtags** (3–6).
 - Tudo em **inglês** (público dos EUA).
+- **Tom humano, sem tom de IA (regra do usuário, 2026-10-21):** escreva como um criador real, casual e direto.
+  Evite frases de marketeiro/IA ("Check out…", "Perfect if you need a quick laugh", "these clips capture…",
+  "the kind of … you can't unsee"). **Não use travessão "—"** (vírgula ou ponto). Minúsculas e gíria leve
+  ("ngl", "fr", "stick around for the #1") são bem-vindas.
 
 ## Hashtags
 - **Regra oficial do YouTube (lançamento de 2018):** mais de **15 hashtags no vídeo → o YouTube ignora TODAS**, e
   "over-tagging" pode tirar o vídeo da busca. Fique **bem abaixo de 15** (título 3 + descrição 3–6 = ~6–9, ok).
 - **Nicho > genérico:** `#minecraftmemes` rende mais que `#viral` (comédia é ~76% dos Shorts, concorrência enorme).
-- **Sempre incluir `#Shorts`.** Hashtag multi-palavra **sem espaço** (`#minecraftmemes`, não `#minecraft memes`).
+- **Sempre em minúsculas** (regra do usuário): `#shorts`, `#minecraftmemes` — nunca `#Shorts`/`#MinecraftMemes`.
+- **Sempre incluir `#shorts`.** Hashtag multi-palavra **sem espaço** (`#minecraftmemes`, não `#minecraft memes`).
 - Nada de hashtag irrelevante (risco de spam) nem de conteúdo sensível.
 
-### Banco de hashtags (escolha 3–6, começando pelas de nicho)
+### Banco de hashtags (escolha 3–6, começando pelas de nicho; tudo minúsculo)
 | Grupo | Hashtags |
 |---|---|
-| Essencial | `#Shorts` |
-| Minecraft (nicho) | `#Minecraft` `#MinecraftMemes` `#MinecraftShorts` `#MinecraftMoments` `#Minecraftfunny` |
-| Meme/comédia | `#Memes` `#MemesDaily` `#Funny` `#RelatableShorts` `#Gaming` `#GamingShorts` `#Gamingmemes` |
-| Outros jogos | troque a parte de Minecraft por `#Fortnite`/`#FortniteMemes`, `#ClashRoyale`, `#Roblox`/`#RobloxMemes`, `#GTA` |
-- Sugestão padrão (Minecraft memes): `#Shorts #Minecraft #MinecraftMemes #Memes #Gaming` (5). Ajuste ao conteúdo.
+| Essencial | `#shorts` |
+| Minecraft (nicho) | `#minecraft` `#minecraftmemes` `#minecraftshorts` `#minecraftmoments` `#minecraftfunny` |
+| Meme/comédia | `#memes` `#memesdaily` `#funny` `#relatableshorts` `#gaming` `#gamingshorts` `#gamingmemes` |
+| Outros jogos | troque a parte de Minecraft por `#fortnite`/`#fortnitememes`, `#clashroyale`, `#roblox`/`#robloxmemes`, `#gta` |
+- Sugestão padrão (Minecraft memes): `#shorts #minecraft #minecraftmemes #memes #gaming` (5). Ajuste ao conteúdo.
 - Evite repetir no título e na descrição exatamente as mesmas 3; o título já cobre `#jogo #memes #shorts`.
 
 ## Fontes consultadas (2026-10-21)

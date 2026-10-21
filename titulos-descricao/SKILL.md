@@ -42,6 +42,12 @@ Padrão fixo, **CAIXA ALTA**: **`TOP 5 [ADJETIVO] [GAME] MEMES`** (edições/mem
 ## Descrição (inglês, estilo vidIQ + SEO)
 A descrição é **indexada para busca** e os **primeiros ~150 caracteres** são os que mais contam (ficam acima do
 "...more"). Comece com a **keyword na 1ª frase** e **detalhe os clips de verdade** (use o SETUP→VIRADA da curadoria).
+
+**Tom humano (regra do usuário, 2026-10-21):** escreva como um criador real escreveria, casual e direto.
+**Nada de tom de IA / marketeiro** — evite "Check out…", "Perfect if you need a quick laugh", "these clips
+capture…", "the kind of … you can't unsee", "we gathered the most entertaining…". **Não use travessão "—"**
+(use vírgula ou ponto). Minúsculas e gíria leve são bem-vindas ("ngl", "fr", "stick around for the #1").
+
 Monte nesta ordem:
 1. **Gancho** (1 frase) com a keyword: `Check out the top 5 [adj] [Game] [memes/moments] ...`.
 2. **Corpo** (2–4 frases): a variedade do vídeo **citando 2–3 clips específicos** do lote (o que acontece em cada
@@ -63,9 +69,10 @@ Bloco em lista vertical, na ordem do vídeo, com os @ da curadoria:
 Clip de streamer repostado: credite quem postou e o streamer — `(3) @perfil / Streamer`.
 
 ### Hashtags
+- **Sempre em minúsculas** (regra do usuário): `#shorts`, `#minecraftmemes` — nunca `#Shorts`/`#MinecraftMemes`.
 - **Nunca passe de 15 no vídeo todo** (o YouTube ignora todas se passar). Com 3 no título + 3–6 na descrição você
-  fica seguro. **Nicho > genérico** (`#MinecraftMemes` > `#viral`), sempre com `#Shorts`, multi-palavra sem espaço.
-- Banco e sugestão padrão em `references/seo-shorts.md` (ex. Minecraft memes: `#Shorts #Minecraft #MinecraftMemes #Memes #Gaming`).
+  fica seguro. **Nicho > genérico** (`#minecraftmemes` > `#viral`), sempre com `#shorts`, multi-palavra sem espaço.
+- Banco e sugestão padrão em `references/seo-shorts.md` (ex. Minecraft memes: `#shorts #minecraft #minecraftmemes #memes #gaming`).
 
 ## Entrega (em português; os textos em inglês dentro de blocos de código, prontos pra copiar)
 1. **Título:** principal + 2 alternativas, cada um já com as 3 hashtags.
@@ -77,14 +84,11 @@ Clip de streamer repostado: credite quem postou e o streamer — `(3) @perfil / 
 Título: `TOP 5 CURSED MINECRAFT MEMES #minecraft #memes #shorts`
 Descrição:
 ```
-Check out the top 5 cursed Minecraft memes — the funniest, most chaotic clips the community made this week.
+Top 5 cursed Minecraft memes, the funniest ones I found this week.
 
-From a lonely player setting off fireworks at midnight on New Year's, to a dog that clips straight through the
-ceiling, to a swamp frog that triggers a full "bro tf??" meltdown — then a quiet diamond run turns into a Grim
-Reaper jumpscare, right before a wind charge launches you clean off the planet and into Saturn's rings. These
-are the kind of unhinged Minecraft moments you can't unsee, and you'll want to send them to the group chat.
+a dude spends New Year's alone in a cave and still lights fireworks at midnight, a dog glitches straight up the wall, a swamp frog gets the full "bro tf??" reaction, a chill diamond run turns into a Grim Reaper jumpscare, and #1 is a wind charge that launches you off the planet all the way to Saturn.
 
-Perfect if you need a quick laugh or just love the weird side of Minecraft servers.
+some of the best Minecraft clips i've seen in a while ngl. stick around for the #1.
 
 (5) @bweeyt
 (4) @kakogohuyas
@@ -92,9 +96,9 @@ Perfect if you need a quick laugh or just love the weird side of Minecraft serve
 (2) @enderduckk
 (1) @scliffmc
 
-Subscribe for a new Top 5 every week, and tell us which clip was your favorite in the comments!
+which one was your favorite? drop the number in the comments. new top 5 every week.
 
-#Shorts #Minecraft #MinecraftMemes #Memes #Gaming
+#shorts #minecraft #minecraftmemes #memes #gaming
 ```
 
 ## Mudanças na própria skill / instalação
