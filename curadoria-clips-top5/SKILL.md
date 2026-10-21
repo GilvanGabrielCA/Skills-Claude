@@ -81,11 +81,11 @@ Perfis novos que renderem bons clips: anote em `SK/data/fontes.md` (o `push` env
   mortos** a cortar (ex.: "corte 0:00–0:04 de introdução parada; use 0:04–0:14") — mas **nunca emende dois
   trechos** separados (`0:02-0:09 + 0:14-0:19`): o usuário testou e o vídeo fica desconexo. No máximo apare o
   começo ou o fim, e só se continuar fazendo sentido.
-- **Fala em inglês (Minecraft): pelo menos 3 dos 5 clips** com fala clara em inglês (streamer, facecam, amigos
-  conversando, voiceover). Outros jogos: tente 3; se não der, entregue o máximo e diga quantos têm fala.
-  Fala (`en`) no `analisar.js` é pista, não prova: leia a transcrição (frases com sentido, ligadas ao que acontece
-  na sheet, contam; palavra solta ou letra de música não). Grito curto pode sair como `none`: se a sheet mostra
-  reação, marque 🟡 e peça para o usuário ouvir.
+- **Fala em inglês: é um BÔNUS, não uma exigência** (decisão do usuário em 2026-10-21). A maioria dos memes que
+  viralizam — inclusive os campeões do canal — é texto + música, sem fala. Priorize o que é mais **engraçado e com
+  mais engajamento**. Quando aparecer um bom clip com fala/facecam de streamer americano, melhor ainda (ajuda a
+  receita dos EUA), mas não force nem descarte um clip ótimo só porque é mudo. **Legenda/texto em inglês na tela**
+  (relatable, "POV:", "bro tf??") também ajuda o público dos EUA a entender.
 - **Formato:** prefira vertical (9:16) ou ação centralizada recortável. Stream 16:9 com chat dos lados lê mal no celular.
 - **Data não é critério:** clip bom e antigo entra. O que importa é engajamento, duração curta e não estar no registro.
 - **Variedade:** no máx. 2 clips do mesmo perfil por lote e nada de 2 clips com a mesma piada. Misture os TIPOS
@@ -95,8 +95,8 @@ Perfis novos que renderem bons clips: anote em `SK/data/fontes.md` (o `push` env
   construções (olhe a sheet inteira), nudez, gore real, ódio, e música famosa alta (Content ID). **Dúvida → pergunte.**
 
 ## Ordem do ranking
-- **#5 abre o vídeo e é o MELHOR do lote:** gancho nos 2 primeiros segundos (ação/fala já começando), maior
-  engajamento e, de preferência, fala em inglês. É ele que segura a audiência até o fim (métrica de engajamento).
+- **#5 abre o vídeo e é o MELHOR do lote:** gancho nos 2 primeiros segundos (ação/texto/fala já começando) e o
+  maior engajamento. É ele que segura a audiência até o fim (métrica de engajamento).
 - **#1 fecha:** o segundo mais forte, para recompensar quem ficou e incentivar o replay.
 - **#4, #3, #2:** os demais; alterne o tipo de piada e espalhe os clips com fala.
 - Explique em 1 linha por que cada clip ficou naquela posição.
@@ -106,9 +106,9 @@ Padrão fixo: **`TOP 5 [ADJETIVO] [GAME] MOMENTS`** (ou `MEMES`, quando forem ed
 Escolha o adjetivo em `SK/data/adjetivos.md`, combinando com o tom do #5. Entregue 1 principal + 2 alternativas.
 
 ## Entrega (em português; textos do vídeo em inglês)
-1. **Tabela:** `| # | Clip (link) | @ | Duração → corte | Fala EN | Views/curtidas | SETUP → VIRADA |`
-   (Fala EN: ✅ `en` / 🟡 confirmar ouvindo / ❌). Abaixo, 1 linha por clip com o motivo da posição. Diga quantos
-   têm fala e a duração total estimada do vídeo.
+1. **Tabela:** `| # | Clip (link) | @ | Duração → corte | Tipo | Views/curtidas | SETUP → VIRADA |`
+   (Tipo = gameplay fail / relatable / expectativa×realidade / facecam / cursed / horror / IRL — ajuda a garantir
+   variedade). Abaixo, 1 linha por clip com o motivo da posição, e a duração total estimada do vídeo.
 2. **Título** principal + 2 alternativas.
 3. **Créditos em lista vertical**, sempre dentro de um bloco de código, um por linha, na ordem do vídeo:
    ```

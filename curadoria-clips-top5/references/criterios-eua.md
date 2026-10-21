@@ -27,6 +27,11 @@ Todos seguem o **mesmo formato**, e foi isso que os levou longe:
 6. **Frases curtas, casuais, em inglês com emoji** (😭 😏 🤑 👀) e formatos de meme ("POV:", "Bro...",
    "Why does this sync so well??", "Minecraft IRL", "A-Train mod", "64 diamonds ❌ 8 diamonds ✅").
 
+> **Fala em inglês não é exigência (decisão do usuário, 2026-10-21).** A maioria dos campeões é meme mudo
+> (texto + música) e viralizou mesmo assim. Fala/facecam de streamer americano continua sendo um bônus para a
+> receita dos EUA, mas a prioridade é o clip mais engraçado e com mais engajamento. Texto/legenda em inglês na
+> tela já ajuda o público dos EUA a entender.
+
 ### Criadores vistos nos campeões (batem com a lista de referência)
 AlexPlay16, Nazzyy, Gratencya, lelitolokito/itolokito, torah, midmystdox_2.0 / midmysticx, hiangeel, KICK BUGADO.
 

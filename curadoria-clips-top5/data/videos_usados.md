@@ -229,3 +229,8 @@ itsangrybossss -- https://www.instagram.com/reel/DIUyeDOSLyf/ -- minecraft
 midmysticx -- https://www.instagram.com/reel/DNEQIc_xy9r/ -- minecraft
 ajtheboldinsta -- https://www.instagram.com/reel/DP2BgCsjtPf/ -- minecraft
 midmysticx -- https://www.instagram.com/reel/DXh-UexErnV/ -- minecraft
+bweeyt -- https://www.tiktok.com/@bweeyt/video/7591585883774553374 -- minecraft
+kakogohuyas -- https://www.tiktok.com/@kakogohuyas/video/7632054435035860227 -- minecraft
+mahomagic21 -- https://www.tiktok.com/@mahomagic21/video/7647624255965875476 -- minecraft
+enderduckk -- https://www.tiktok.com/@enderduckk/video/7646085295552597270 -- minecraft
+scliffmc -- https://www.tiktok.com/@scliffmc/video/7594187788040310034 -- minecraft
