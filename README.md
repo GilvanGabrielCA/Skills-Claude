@@ -6,8 +6,8 @@ Coleção de skills do Claude Code do **BoosterFace** (canal de Shorts de rankin
 ## Skills
 | Pasta | O que faz | Status |
 |---|---|---|
-| [`curadoria-clips-top5`](curadoria-clips-top5/) | Busca e curadoria de 5 clips para o "TOP 5 [ADJ] [GAME] MOMENTS/MEMES" (download + frames + transcrição, ranking, cortes, título, créditos) e registro anti-repetição no GitHub | ✅ pronta |
-| `titulos-descricao` | Títulos e descrição do vídeo | 🔜 planejada |
+| [`curadoria-clips-top5`](curadoria-clips-top5/) | Busca e curadoria de 5 clips para o "TOP 5 [ADJ] [GAME] MOMENTS/MEMES" (download + frames + transcrição, ranking, cortes) e registro anti-repetição no GitHub | ✅ pronta |
+| [`titulos-descricao`](titulos-descricao/) | Título (padrão + hashtags) e descrição otimizada pra SEO do Shorts (estilo vidIQ, créditos (5)→(1), CTA e hashtags de nicho); usa a saída da curadoria | ✅ pronta |
 | `frases-comentarios` | Frases da lista e comentários engraçados (inglês dos EUA) | 🔜 planejada |
 
 ## Instalar em um desktop novo (Windows)
