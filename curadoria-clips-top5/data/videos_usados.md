@@ -234,3 +234,8 @@ kakogohuyas -- https://www.tiktok.com/@kakogohuyas/video/7632054435035860227 -- 
 mahomagic21 -- https://www.tiktok.com/@mahomagic21/video/7647624255965875476 -- minecraft
 enderduckk -- https://www.tiktok.com/@enderduckk/video/7646085295552597270 -- minecraft
 scliffmc -- https://www.tiktok.com/@scliffmc/video/7594187788040310034 -- minecraft
+drewifyy -- https://www.tiktok.com/@drewifyy/video/7636987144103349518 -- fortnite
+itshyperspazm -- https://www.tiktok.com/@itshyperspazm/video/7311228729231985962 -- fortnite
+jb__clipz -- https://www.tiktok.com/@jb__clipz/video/7596967304752057655 -- fortnite
+ilynightmares -- https://www.tiktok.com/@ilynightmares/video/7179674133423312133 -- fortnite
+plasma -- https://www.tiktok.com/@plasma/video/7334828543148330282 -- fortnite
