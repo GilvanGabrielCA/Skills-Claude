@@ -1,0 +1,12 @@
+# clips baixados e artefatos de análise — nunca vão pro repo
+*.mp4
+*.webm
+*.mov
+*.mkv
+*.wav
+*.m4a
+*.info.json
+*.meta.json
+*_sheet*.png
+*_whisper*
+node_modules/

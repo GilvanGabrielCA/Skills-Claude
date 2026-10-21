@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.ps1 text eol=crlf
+# o registro é append-mostly: dois PCs podem registrar ao mesmo tempo sem conflito
+curadoria-clips-top5/data/videos_usados.md text eol=lf merge=union
