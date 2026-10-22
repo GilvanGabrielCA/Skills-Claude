@@ -254,3 +254,5 @@ gtahomedefender -- https://www.tiktok.com/@gtahomedefender/video/765398617004867
 beastszn3 -- https://www.tiktok.com/@beastszn3/video/7590173972445007135 -- gta
 dorozea -- https://www.tiktok.com/@dorozea/video/7662005882791677206 -- gta
 gtaznga -- https://www.tiktok.com/@gtaznga/video/7644675628511317262 -- gta
+serlord.gta -- https://www.tiktok.com/@serlord.gta/video/7620486069242383638 -- gta
+gtarm4 -- https://www.tiktok.com/@gtarm4/video/7691658555681770773 -- gta
