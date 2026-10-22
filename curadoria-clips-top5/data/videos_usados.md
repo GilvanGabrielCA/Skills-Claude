@@ -239,3 +239,8 @@ itshyperspazm -- https://www.tiktok.com/@itshyperspazm/video/7311228729231985962
 jb__clipz -- https://www.tiktok.com/@jb__clipz/video/7596967304752057655 -- fortnite
 ilynightmares -- https://www.tiktok.com/@ilynightmares/video/7179674133423312133 -- fortnite
 plasma -- https://www.tiktok.com/@plasma/video/7334828543148330282 -- fortnite
+steve_kong -- https://www.tiktok.com/@steve_kong/video/7696209365338000661 -- minecraft
+mqviemc -- https://www.tiktok.com/@mqviemc/video/7614113813540949280 -- minecraft
+jesterdayos1 -- https://www.tiktok.com/@jesterdayos1/video/7656023558396644628 -- minecraft
+ma3trixx -- https://www.tiktok.com/@ma3trixx/video/7698029503238524191 -- minecraft
+xykronex -- https://www.tiktok.com/@xykronex/video/7652325291330637086 -- minecraft
