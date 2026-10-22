@@ -10,3 +10,5 @@ Perfis que renderam bons clips (acrescente na busca; vira referência fixa).
 | clash-royale | TikTok | busca `clash royale funny` / `clash royale rage` | 2026-10-18: muitos clips de 7–12s com 300K+ curtidas |
 | roblox | TikTok | busca `roblox memes` | 2026-10-22: boa fonte; clips de 6-20s com milhões de curtidas |
 | roblox | TikTok | @swiftism, @blossomsreborn, @harley.roblx, @tykunoma, @johnbloxman | 2026-10-22: lote roblox_2026-10-22 |
+| gta | TikTok | busca `gta 5 funny moments` | 2026-10-22: boa fonte; muito ragdoll/física/NPC. Cuidado com clips horizontais (16:9) |
+| gta | TikTok | @.samn_, @gtahomedefender, @beastszn3, @dorozea, @gtaznga | 2026-10-22: lote gta_2026-10-22 |

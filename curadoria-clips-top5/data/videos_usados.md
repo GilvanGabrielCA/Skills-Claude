@@ -249,3 +249,8 @@ harley.roblx -- https://www.tiktok.com/@harley.roblx/video/7647297428323962142 -
 johnbloxman -- https://www.tiktok.com/@johnbloxman/video/7600990694412438815 -- roblox
 tykunoma -- https://www.tiktok.com/@tykunoma/video/7687851385399971102 -- roblox
 blossomsreborn -- https://www.tiktok.com/@blossomsreborn/video/7665087824609266975 -- roblox
+.samn_ -- https://www.tiktok.com/@.samn_/video/7589822973511585038 -- gta
+gtahomedefender -- https://www.tiktok.com/@gtahomedefender/video/7653986170048679181 -- gta
+beastszn3 -- https://www.tiktok.com/@beastszn3/video/7590173972445007135 -- gta
+dorozea -- https://www.tiktok.com/@dorozea/video/7662005882791677206 -- gta
+gtaznga -- https://www.tiktok.com/@gtaznga/video/7644675628511317262 -- gta
