@@ -256,3 +256,8 @@ dorozea -- https://www.tiktok.com/@dorozea/video/7662005882791677206 -- gta
 gtaznga -- https://www.tiktok.com/@gtaznga/video/7644675628511317262 -- gta
 serlord.gta -- https://www.tiktok.com/@serlord.gta/video/7620486069242383638 -- gta
 gtarm4 -- https://www.tiktok.com/@gtarm4/video/7691658555681770773 -- gta
+vixios -- https://www.tiktok.com/@vixios/video/7209658766290210054 -- minecraft
+boleswav -- https://www.tiktok.com/@boleswav/video/7645747688255851798 -- minecraft
+totallybatman17 -- https://www.tiktok.com/@totallybatman17/video/7507803279015922974 -- minecraft
+cluckee_ -- https://www.tiktok.com/@cluckee_/video/7261610668338531611 -- minecraft
+sloweddmc -- https://www.tiktok.com/@sloweddmc/video/7159560150498561285 -- minecraft
