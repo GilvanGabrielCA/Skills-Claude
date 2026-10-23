@@ -1,7 +1,7 @@
 # Skills-Claude
 
-Coleção de skills do Claude Code do **BoosterFace** (canal de Shorts de ranking de games), num repositório
-**público** para usar em qualquer desktop com um `git clone` só.
+Coleção de skills do Claude Code do **BoosterFace** (canal de Shorts de ranking de games) e de estudo, num
+repositório **público** para usar em qualquer desktop com um `git clone` só.
 
 ## Skills
 | Pasta | O que faz | Status |
@@ -9,6 +9,10 @@ Coleção de skills do Claude Code do **BoosterFace** (canal de Shorts de rankin
 | [`curadoria-clips-top5`](curadoria-clips-top5/) | Busca e curadoria de 5 clips para o "TOP 5 [ADJ] [GAME] MOMENTS/MEMES" (download + frames + transcrição, ranking, cortes) e registro anti-repetição no GitHub | ✅ pronta |
 | [`titulos-descricao`](titulos-descricao/) | Título (padrão + hashtags) e descrição otimizada pra SEO do Shorts (estilo vidIQ, créditos (5)→(1), CTA e hashtags de nicho); usa a saída da curadoria | ✅ pronta |
 | [`frases-comentarios`](frases-comentarios/) | Frases da lista + comentários engraçados (inglês dos EUA); analisa cada clip 4 fps quadro a quadro e lê os comentários/descrição do post; usa os clips baixados pela curadoria | ✅ pronta |
+| [`tutor-arquitetura-redes`](tutor-arquitetura-redes/) | Tutor do curso "Arquitetura de Redes" (Gabriel Torres, Udemy): explica termos e dúvidas de aula, aplicações reais, questões do nível 1 ao 5, revisão espaçada, cartões para o Anki e mini-labs no Packet Tracer | ✅ pronta |
+
+O progresso de estudo do tutor (`tutor-arquitetura-redes/estado/`) fica só no PC e não é versionado; num PC novo a
+skill recria a pasta a partir de `modelos/`.
 
 ## Instalar em um desktop novo (Windows)
 ```powershell
